@@ -19,8 +19,7 @@ Convert your webcam feed into **clean, high-contrast ASCII art** in real-time â€
 
 *Add your screenshots here ðŸ‘‡*
 
-![Output 1](screenshots/output1.png)
-![Output 2](screenshots/output2.png)
+![Output 1]<img width="1002" height="654" alt="Screenshot 2026-04-19 034201" src="https://github.com/user-attachments/assets/9e2a92bf-352e-4623-8eff-e84e191b3946" />
 
 ---
 
