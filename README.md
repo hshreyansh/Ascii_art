@@ -1,5 +1,4 @@
-# Ascii_art
-# 🎥 ASCII Webcam Renderer (Skull Style)
+# 🎥 ASCII Art
 
 Convert your webcam feed into **clean, high-contrast ASCII art** in real-time — inspired by the classic black-and-white “skull-style” ASCII visuals.
 
@@ -16,8 +15,7 @@ Convert your webcam feed into **clean, high-contrast ASCII art** in real-time �
 ---
 
 ## 🖼️ Output Preview
-
-*Add your screenshots here 👇*
+*screenshots here 👇*
 
 ![Output 1]<img width="1002" height="654" alt="Screenshot 2026-04-19 034201" src="https://github.com/user-attachments/assets/9e2a92bf-352e-4623-8eff-e84e191b3946" />
 
@@ -45,8 +43,8 @@ Convert your webcam feed into **clean, high-contrast ASCII art** in real-time �
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/ascii-webcam.git
-cd ascii-webcam
+git clone https://github.com/hshreyansh/Ascii_art.git
+cd ascii-art
 pip install -r requirements.txt
 ```
 
@@ -55,7 +53,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Project
 
 ```bash
-python ascii_camera.py
+python ascii_art.py
 ```
 
 Press **`q`** to exit.
